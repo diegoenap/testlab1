@@ -1,0 +1,31 @@
+Adobe
+Adobe Acrobat Reader DC.app
+Adobe Creative Cloud
+Adobe Lightroom
+Adobe Photoshop CC 2017
+Aegisub.app
+Anaconda-Navigator.app -> /anaconda/Anaconda-Navigator.app
+Commander One.app
+Dropbox.app
+Evernote.app
+Firefox.app
+Google Chrome.app
+Grammarly.app
+Malwarebytes Anti-Malware.app
+OpenEmu.app
+R.app
+RStudio.app
+Send to Kindle
+Skim.app
+Skype.app
+StarCraft
+TeX
+TeamViewer.app
+VLC.app
+VirtualBox.app
+XMind.app
+calibre.app
+uTorrent.app
+
+Paradox NTFS
+
